@@ -11,7 +11,7 @@ public class Main {
     }
 }
 
-class Hospital {
+class Hospital { //
     private final int patientsCount;
     private final int healthyCount;
     private final double avgTemp;

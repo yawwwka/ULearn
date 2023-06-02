@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b30759b-5b53-49c0-b2cb-723fbc417e12" name="Changes" comment="s">
+      <change afterPath="$PROJECT_DIR$/Abstract/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/Hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KR/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KR/KR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KR/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/School/src/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/School/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/src/Pupil.java" beforeDir="false" afterPath="$PROJECT_DIR$/School/src/Pupil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/src/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/School/src/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/School/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lines/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/src/TodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/TodoList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +34,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +54,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19"
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,7 +65,35 @@
       <recent name="C:\Users\polds\IdeaProjects\ULearn\TodoList\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="FileUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileUtils" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Hospital" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="School" />
@@ -58,6 +103,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.FileUtils" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

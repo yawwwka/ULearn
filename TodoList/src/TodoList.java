@@ -17,8 +17,12 @@ class Main {
                 case "ADD":
                     System.out.println("Введите дело, а затем его индекс через пробел (если нужно вставить в конец - введите только дело)");
                     d = sc.nextLine();
-                    if (d.split(" ").length > 1) todo.add(Integer.parseInt(d.split(" ")[1]), d.split(" ")[0]);
-                    else todo.add(d);
+                    if (d.split(" ").length > 1) {
+                        String[] dspl = d.split(" ");
+                        String d1 = dspl[0];
+                        int d2 = Integer.parseInt(dspl[1]);
+                        todo.add(d2, d1);
+                    } else todo.add(d);
                     break;
                 case "EDIT":
                     System.out.println("Введите дело, а затем индекс заменяемого через пробел.");
